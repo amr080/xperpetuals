@@ -1,13 +1,3 @@
-<p align="center"><img src="https://dydx.exchange/icon.svg?" width="256" /></p>
-
-<h1 align="center">dYdX Chain Web</h1>
-
-<div align="center">
-  <a href='https://github.com/dydxprotocol/v4-web/blob/main/LICENSE'>
-    <img src='https://img.shields.io/badge/License-AGPL_v3-blue.svg' alt='License' />
-  </a>
-</div>
-
 ## Prerequisites
 
 - Node.js version 18 and `pnpm` installed on your system
